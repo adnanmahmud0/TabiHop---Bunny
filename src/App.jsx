@@ -13,6 +13,7 @@ function App() {
     zoom: 11
   };
 
+
   return (
     <>
       <div className="px-[23px] md:px-[46px] py-[21px] md:py-[42px] mx-auto max-w-7xl">
